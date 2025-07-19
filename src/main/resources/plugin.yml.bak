@@ -1,0 +1,5 @@
+name: BedwarsScoreBoardAddon
+version: '${project.version}'
+main: me.ram.bedwarsscoreboardaddon.Main
+authors: [Earth_Studio, TheRamU]
+website: https://github.com/GADDQ/BedwarsScoreBoardAddon
