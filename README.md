@@ -1,6 +1,19 @@
 
 <h1 align="center"><br>🛏</br>BedwarsScoreBoardAddon</h1>
 
+> [!WARNING]
+> Achieve!
+> 
+> 归档！
+> 
+> This is not continue. I give up to port it for Screaming Bedwars due to the terrible api.
+>
+> 这个插件将不会继续维护。由于 Screaming Bedwars 开放的 api 非常不好用，我已经放弃将它移植到 Screaming Bedwars。
+>
+> I'll merge this plugin to my own [Bedwars](https://github.com/GADDQ/NextGenBedwars) plugin when it's ready!
+> 
+> 当时机成熟时，我将把这个插件的功能合并到我自己的 [起床战争](https://github.com/GADDQ/NextGenBedwars) 插件！
+
 ## 📌 介绍/What's this?
 
 🪐
